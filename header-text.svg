@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="101px" viewBox="0 0 280 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>expirience</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="bold">
+        <g id="BGTRE-Mobile-" transform="translate(-20.000000, -133.000000)">
+            <g id="expirience" transform="translate(20.000000, 133.000000)">
+                <text id="LOYALTY" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" letter-spacing="4" fill="#666666">
+                    <tspan x="103.86" y="10">LOYALTY</tspan>
+                </text>
+                <text id="Do-more-with-your-mi" font-family="Emirates-Bold, Emirates" font-size="30" fill="#333333">
+                    <tspan x="52.55" y="57">Do more with </tspan>
+                    <tspan x="73.895" y="93">your miles</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-color: #F6F6F6;
+}
+
+.prototype {
+    max-width: 320px;
+    margin: auto;
+}
+
+nav, .header-bg {
+    display: flex;
+}
+
+
+.header-text {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.pill-container {
+    height: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    scroll-behavior: smooth;
+}
+
+
+.header-bg {
+    position: relative;
+    height: 273px;
+}
+
+.pill-container {
+    margin-top: -80px;
+    display: flex;
+    overflow-x: auto;
+    top: 0;
+    z-index: 2;
+    position: sticky;
+}
+
+.pill-container button {
+    min-width: 130px;
+    white-space: nowrap;
+    margin-left: 10px;
+    border-radius: 16px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px 2px rgb(0 0 0 / 10%);
+    padding: 0 10px;
+    width: auto;
+    font-family: HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 14px;
+}
+
+button.spacer {
+    background: none;
+    box-shadow: none;
+    min-width: 5px;
+    pointer-events: none;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.cards {
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.cards > div {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.cards img {
+    width: 100%;
+}
+
+.pill-sticked {
+    background: #F7F7F7;
+    box-shadow: 0 2px 4px 2px rgb(0 0 0 / 10%);
+}
+
+
+.pill-container button.pill-active {
+    background: #C60C30;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.pill-sticked.relative {
+    position: relative;
+}

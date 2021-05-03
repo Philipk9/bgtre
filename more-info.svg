@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="458px" viewBox="0 0 312 458" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="446" rx="3"></rect>
+        <filter x="-3.3%" y="-1.8%" width="106.7%" height="104.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.103883605 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BGTRE-Mobile-" transform="translate(-4.000000, -2556.000000)">
+            <g id="Group-7" transform="translate(10.000000, 2560.000000)">
+                <g id="card">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-13" transform="translate(10.000000, 386.000000)">
+                    <rect id="Rectangle" stroke="#C7C7C7" fill="#FFFFFF" x="0" y="0" width="281" height="50" rx="3"></rect>
+                    <text id="Terms-and-conditions" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="17" fill="#333333">
+                        <tspan x="15" y="32">Terms and conditions</tspan>
+                    </text>
+                    <path d="M255.46561,21.2746545 C255.130331,20.9084485 254.586737,20.9084485 254.251459,21.2746545 C253.91618,21.6408606 253.91618,22.2345979 254.251459,22.6008039 L259.400986,28.2253455 C259.736264,28.5915515 260.279858,28.5915515 260.615137,28.2253455 L265.748541,22.6184138 C266.08382,22.2522078 266.08382,21.6584705 265.748541,21.2922644 C265.413263,20.9260584 264.869669,20.9260584 264.53439,21.2922644 L260.008061,26.2361214 L255.46561,21.2746545 Z" id="Shevrons/Red/Down" fill="#C60D30" fill-rule="nonzero"></path>
+                </g>
+                <text id="It-may-take-up-to-48" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="14" font-weight="300" fill="#333333">
+                    <tspan x="20" y="74">It may take up to 48 hours for the Miles to </tspan>
+                    <tspan x="20" y="91">reflect in your account and be available to </tspan>
+                    <tspan x="20" y="108">redeem.</tspan>
+                    <tspan x="20" y="125"> </tspan>
+                    <tspan x="20" y="142">The validity of Skywards Miles that are due </tspan>
+                    <tspan x="20" y="159">to expire or have expired can be extended </tspan>
+                    <tspan x="20" y="176">or reinstated only through emirates.com.</tspan>
+                    <tspan x="20" y="193"> </tspan>
+                    <tspan x="20" y="210">Buy, Gift, Transfer, Reinstate, Extend and </tspan>
+                    <tspan x="20" y="227">Multiply Miles services are currently only </tspan>
+                    <tspan x="20" y="244">available to a member using an individual </tspan>
+                    <tspan x="20" y="261">Emirates Skywards account and do not </tspan>
+                    <tspan x="20" y="278">apply to My Family accounts.</tspan>
+                    <tspan x="20" y="295"> </tspan>
+                    <tspan x="20" y="312">Additional Miles can’t be purchased for My </tspan>
+                    <tspan x="20" y="329">Family accounts and Miles contributed </tspan>
+                    <tspan x="20" y="346">can’t be gifted, transferred, reinstated, </tspan>
+                    <tspan x="20" y="363">extended or multiplied.</tspan>
+                </text>
+                <rect id="red_separator" fill="#C60C30" x="20" y="47" width="62" height="2"></rect>
+                <text id="More-Information" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#333333">
+                    <tspan x="20" y="34">More Information</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
